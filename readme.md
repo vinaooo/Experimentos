@@ -12,3 +12,4 @@ Cursos que estou realizando
     python
         Microsoft
         Univesp
+.
